@@ -1,5 +1,4 @@
-# FilmFun
-Simple GUI Movie Portal.
+# FilmFan
 
 ## Table of contents
 * [General info](#general-info)
@@ -11,26 +10,26 @@ Simple GUI Movie Portal.
 FilmFun is a simple GUI movie portal. It can be used for searching and rating movies.
 
 ## Features
-- Sign Up 
-- Sign In
+- Signing Up 
+- Signing In
+- Logging Out
 
 <img src="./images/register.png" data-canonical-src="./images/register_page.png" width="650" height="400"/>
 
 - Top 3 movies
-- Find movie which interests you
-- Log Out
+- Searching for movie which interests you
 
 <img src="./images/main.png" data-canonical-src="./images/main_page.png" width="650" height="400"/>
 
-- Rate the movie
-- See all movie's deteals
+- Rating the movie
+- Displaying all movie's details
 
 <img src="./images/movie.png" data-canonical-src="./images/movie_page.png" width="650" height="400"/>
 
 ## Technologies
 App was created with:
 - Java 
-- Interface Serializable 
+- Serializable Interface 
 - GUI
 
 ## Authors 
