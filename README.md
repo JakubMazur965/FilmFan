@@ -24,7 +24,7 @@ FilmFun is a simple GUI movie portal. It can be used for searching and rating mo
 - Rating the movie
 - Displaying all movie's details
 
-<img src="./images/movie.png" data-canonical-src="./images/movie.png" width="650" height="400"/>
+<img src="./images/movie.png" data-canonical-src="./images/movie.png" width="650" height="350"/>
 
 ## Technologies
 App was created with:
