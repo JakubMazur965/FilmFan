@@ -14,7 +14,7 @@ FilmFun is a simple GUI movie portal. It can be used for searching and rating mo
 - Signing In
 - Logging Out
 
-<img src="./images/register.png" data-canonical-src="./images/register_page.png" width="650" height="400"/
+<img src="./images/register.png" data-canonical-src="./images/register.png" width="650" height="400"/
 
 - Top 3 movies
 - Searching for movie which interests you
