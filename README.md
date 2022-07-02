@@ -30,7 +30,7 @@ FilmFun is a simple GUI movie portal. It can be used for searching and rating mo
 App was created with:
 - Java 
 - Serializable Interface 
-- GUI
+- Swing
 
 ## Authors 
 - [Zuzanna Pietrzak](https://github.com/zuza571)
