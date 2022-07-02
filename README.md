@@ -1,2 +1,2 @@
 # FilmFun
-Simple GUI Application. Movie Portal.
+Simple GUI Movie Portal.
