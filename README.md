@@ -23,7 +23,7 @@ FilmFun is a simple GUI movie portal. It can be used for searching and rating mo
 <img src="./images/main.png" data-canonical-src="./images/main_page.png" width="650" height="400"/>
 
 - Rate the movie
-- All movie deteals
+- See all movie's deteals
 
 <img src="./images/movie.png" data-canonical-src="./images/movie_page.png" width="650" height="400"/>
 
